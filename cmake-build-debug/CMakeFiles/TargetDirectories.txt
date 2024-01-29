@@ -1,0 +1,3 @@
+C:/Users/henri/Documents/Universitet/IDATT2004 Nettverksprogrammering/event-loop-threading/cmake-build-debug/CMakeFiles/event_loop_threading.dir
+C:/Users/henri/Documents/Universitet/IDATT2004 Nettverksprogrammering/event-loop-threading/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/henri/Documents/Universitet/IDATT2004 Nettverksprogrammering/event-loop-threading/cmake-build-debug/CMakeFiles/rebuild_cache.dir
